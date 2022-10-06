@@ -1,12 +1,12 @@
 {
-  "name": "Uzurion-Launcher",
+  "name": "Frenezia",
   "version": "2.0.0-prebeta",
-  "productName": "Uzurion Launcher",
-  "description": "Uzurion Launcher",
+  "productName": "Frenezia",
+  "description": "Frenezia",
   "main": "app/index.html",
-  "author": "Luuxis",
+  "author": "Filflo15",
   "window": {
-    "title": "Uzurion update",
+    "title": "Frenezia update",
     "width": 400,
     "height": 500,
     "frame": false,
@@ -15,7 +15,7 @@
     "icon": "app/assets/images/icons/icon.png"
   },
   "chromium-args": "--enable-logging --v=1 --disable-gpu",
-  "url": "http://uzurion.luuxis.fr",
+  "url": "https://lescannetons.websr.fr/launcher/files/",
   "user": "",
   "webkit": {
     "plugin": true
